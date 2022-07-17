@@ -1,4 +1,12 @@
-# Ecommerce - Api
+# Ecommerce - UI
+Ecommerce responsive website using:
+- React
+- Express
+- Axios
+- Redux 
+- MangoDB
+- Stripe
+- Automated Testing w/ PostMan
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
